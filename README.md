@@ -1,4 +1,2 @@
-这是我的第一个git提交文件
-1）add
-2)commit
-3)push
+# 第一次python作业
+./train/python_one.py
